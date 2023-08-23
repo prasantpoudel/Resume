@@ -1,0 +1,24 @@
+# Skills
+# Organizational leadership
+- skill: DS/ML/AI
+  description: Python, DS lifecycle, ANN/CNN techniques, Transfer Learnings, ViT transformers etc.
+
+# Communications strategy
+- skill: Python Framework/Modules
+  description: Sklearn, Pytorch, keras, Numpy, Pandas, Opencv, NLTK
+
+- skill: Mlops Tools
+  description: DVC, Mlflow, git actions(CI/CD), Monitoring, Building REST APis,Zenml
+
+- skill: Web Dev
+  description: Html,Css, Flask(WSGI), Fast Api(ASGI), Streamlit
+
+- skill: Programming and DB Language
+  description: Python3, Mysql, Mongodb, Postgresql
+
+- skill: Cloud based Deployment and containers
+  description: AWS, Elastic beanstalk, CodePipeline, EC2, ECS, ECR, Git, Docker,Heroku
+
+- skill: Data Visualization
+  description: Tableau, PowerBi, Seaborn, Matplotlib
+

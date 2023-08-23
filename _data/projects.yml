@@ -1,0 +1,25 @@
+# Projects
+- project: APS Failure Detection
+  duration: Aug 2023
+  url: "https://github.com/prasantpoudel/MLops"
+  description: Leveraging MongoDB for efficient data storage and retrieval, efficient null value imputation through four optimization methods, implementing modular coding for adaptable pipeline usage, and ready for cloud platform deployment.
+
+- project: Conversation Summarization
+  duration: Jul 2023
+  url: "https://github.com/prasantpoudel/Text-Summarization-NLP"
+  description: Executed full-cycle NLP project focusing on conversation summarization, utilizing BERT model (google/pegasus-cnn_dailymail). Achieved containerization with Docker and primed project for cloud deployment.
+
+- project: Skin Cancer Detection
+  duration: Mar 2023
+  url: "https://github.com/prasantpoudel/skin-cancer-detection"
+  description: Developed skin cancer detection system using deep learning and CNNs on a diverse dataset of 14,000 images. Created an intuitive Flask and Streamlit web app for user-friendly image-based diagnosis. Aiming to enhance early 
+
+- project: Twitter Sentimental Analysis
+  duration: Aug 2022
+  url: "https://github.com/prasantpoudel/Stockport-Predictive_Sentiment_Analysis"
+  description: Developed a user-friendly web app utilizing a machine learning model for sentiment analysis on stock-related tweets. Employed data collection, preprocessing, and a Random Forest classifier for insightful investment decision-making. Enabled real-time predictions, bridging finance and machine learning for informed market sentiment analysis.
+
+- project: Fake News Detection
+  duration: Sep 2022
+  url: "https://github.com/prasantpoudel/Fake_news_detection_using_LSTM"
+  description: Leveraged LSTM algorithm to retain contextual meaning in text data. Incorporated tokenizer, Porter stemmer, and stopword library for preprocessing. Employed Word2Vec to transform text into numerical representations, enhancing semantic understanding.
